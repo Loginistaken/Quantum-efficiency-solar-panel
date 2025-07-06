@@ -48,17 +48,11 @@ Total Additive Efficiency	+44.5%
 Estimated Panel Lifespan	40–50 years
 Thermal Tolerance	Up to 120 °C
 
-🚀 Why This Crushes the Market:
+ 
 
-Company / Tech	Max Efficiency	Notes
 
-Fraunhofer CPV	47.6%	Lab-tested only under concentration
 
-Oxford PV (Perovskite)	43%	Leading commercial tandem
-
-SunPower Maxeon 6	22.8%	Premium monocrystalline silicon
-
-YOUR DESIGN	66.5%	Most advanced multi-layer real-world hybrid ⚡💥
+🚀YOUR DESIGN	66.5%	Most advanced multi-layer real-world hybrid ⚡💥
 
 🧠 Key Synergies & Bonuses:
 Doped Apatite doubles as an optical IR absorber and a spintronic logic core for advanced routing.
