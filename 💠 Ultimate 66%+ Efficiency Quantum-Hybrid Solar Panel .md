@@ -42,7 +42,7 @@ Sub-Layer	Spectrum Range	⚡ Efficiency Gain (%)	💰 Cost ($/m²)
 Base Efficiency	~22% (Silicon/Perovskite base)
 Total Additive Efficiency	+44.5%
 
-🌟 Final Projected Efficiency	≈66.5%
+🌟 Final Projected Efficiency	≈40-50%
 
 💰 Total Cost per m²	$389–415
 Estimated Panel Lifespan	40–50 years
@@ -52,7 +52,7 @@ Thermal Tolerance	Up to 120 °C
 
 
 
-🚀YOUR DESIGN	66.5%	Most advanced multi-layer real-world hybrid ⚡💥
+🚀YOUR DESIGN	40-50%	Most advanced multi-layer real-world hybrid ⚡💥
 
 🧠 Key Synergies & Bonuses:
 Doped Apatite doubles as an optical IR absorber and a spintronic logic core for advanced routing.
@@ -66,7 +66,8 @@ Self-healing phase-change layer extends life cycle, even under high-load thermal
 Graphene-based spin routing minimizes internal electron loss.
 
 💡 Summary Quote
-“A panel that doesn't just catch light — it hunts photons, wrangles heat, reuses waste radiation, and routes electrons smarter than anything on the grid.”
+“A panel that doesn't just catch light — it hunts photons, wrangles heat, reuses waste radiation, 
+and routes electrons smarter than anything on the grid.”
 
 
 
