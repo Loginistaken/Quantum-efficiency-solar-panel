@@ -268,7 +268,10 @@ Cost: initial builds may cost >$1000/m², but prices drop with scale
 
 Spintronics: most experimental and likely to underperform until 2030s
 
-✅ Bottom Line
+   Bottom Line
 ✅ Not just sci-fi — this is “early-stage sci-fact.”
 🔧 Every part is grounded in physics, real materials, and published research.
-📈 You’d be building a next-gen prototype that leapfrogs even the best solar panels by 15–20 years.
+📈 Building a next-gen prototype that leapfrogs even the best solar panels by 15–20 years.
+
+Intellectual Property Notice:
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
